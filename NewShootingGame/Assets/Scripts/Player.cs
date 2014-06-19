@@ -3,36 +3,24 @@ using System.Collections;
 
 public class Player : MonoBehaviour
 {
-	// Spaceshipコンポーネント
-	Spaceship spaceship;
+		Shotoption option;
+		Bullet bullet;
+		Spaceship spaceship;
 		Score score;
-
-		//アイテムゲット時のポイント（仮）
 		public int itempoint = 400;
-		private int ii = 1;
-
 		public GameObject normalbullet;
 		public GameObject rapidbullet;
 		public GameObject strongbullet;
 		public GameObject player;
-
-
-
 		public bool specialbool = false;
 		public GameObject[] SPB = new GameObject[9];
 		private GameObject statetext;
 		private string Pltext;
 		private int SBLV = -1;
 		public GameObject getanim;
-
 		public GameObject options;
-
 		private int optionhaves;
 		private bool fulloption;
-
-		Shotoption option;
-
-	Bullet bullet;
 
 		public enum PlayerState{
 				PLAYER_NORMAL,
@@ -43,11 +31,8 @@ public class Player : MonoBehaviour
 		}
 		private PlayerState state;
 
-	IEnumerator Start ()
-	{
-
-		// Spaceshipコンポーネントを取得
-		spaceship = GetComponent<Spaceship> ();
+		IEnumerator Start (){
+				spaceship = GetComponent<Spaceship> ();
 				bullet = GetComponent<Bullet> ();
 				score = GetComponent<Score> ();
 				option = GetComponent<Shotoption> ();
@@ -56,32 +41,18 @@ public class Player : MonoBehaviour
 				state = PlayerState.PLAYER_NORMAL;
 				spaceship.bullet = normalbullet;
 
-		while (true) {
-			
-			// 弾をプレイヤーと同じ位置/角度で作成
-			spaceship.Shot (transform);
-			
-			// ショット音を鳴らす
-			audio.Play();
-			
-			// shotDelay秒待つ
+				while (true) {
+						spaceship.Shot (transform);
+						audio.Play();
 						yield return new WaitForSeconds (spaceship.shotDelay+spaceship.baseshotDelay);
-		}
-	}
+						}
+				}
 	
-	void Update ()
-	{
-		// 右・左
-		float x = Input.GetAxisRaw ("Horizontal");
-		
-		// 上・下
-		float y = Input.GetAxisRaw ("Vertical");
-		
-		// 移動する向きを求める
-		Vector2 direction = new Vector2 (x, y).normalized;
-		
-		// 移動の制限
-		Move (direction);
+		void Update (){
+				float x = Input.GetAxisRaw ("Horizontal");
+				float y = Input.GetAxisRaw ("Vertical");
+				Vector2 direction = new Vector2 (x, y).normalized;
+				Move (direction);
 
 				if(Input.GetKeyDown("f")){
 						switch (state) {
@@ -129,65 +100,35 @@ public class Player : MonoBehaviour
 								Pltext = "NORMAL";
 								FindObjectOfType<Score>().StateText(Pltext);
 								break;
-
+						}
 						}
 				}
-		
-	}
 
-	// 機体の移動
-	void Move (Vector2 direction)
-	{
-		// 画面左下のワールド座標をビューポートから取得
+		void Move (Vector2 direction){
 				Vector2 min = Camera.main.ViewportToWorldPoint(new Vector2(0.26f, 0));
-		
-		// 画面右上のワールド座標をビューポートから取得
 				Vector2 max = Camera.main.ViewportToWorldPoint(new Vector2(1, 1));
-		
-		// プレイヤーの座標を取得
-		Vector2 pos = transform.position;
-		
-		// 移動量を加える
+				Vector2 pos = transform.position;
 				pos += direction  * spaceship.speed *spaceship.basespeed* Time.deltaTime;
-		
-		// プレイヤーの位置が画面内に収まるように制限をかける
-		pos.x = Mathf.Clamp (pos.x, min.x, max.x);
-		pos.y = Mathf.Clamp (pos.y, min.y, max.y);
-		
-		// 制限をかけた値をプレイヤーの位置とする
-		transform.position = pos;
-	}
-	
-	// ぶつかった瞬間に呼び出される
-	void OnTriggerEnter2D (Collider2D c)
-	{
-		// レイヤー名を取得
-		string layerName = LayerMask.LayerToName(c.gameObject.layer);
-
-		
-		// レイヤー名がBullet (Enemy)の時は弾を削除
-		if( layerName == "Bullet (Enemy)")
-		{
-			// 弾の削除
-			Destroy(c.gameObject);
-		}
-
-		// レイヤー名がBullet (Enemy)またはEnemyの場合は爆発
-		if( layerName == "Bullet (Enemy)" || layerName == "Enemy")
-		{
+				pos.x = Mathf.Clamp (pos.x, min.x, max.x);
+				pos.y = Mathf.Clamp (pos.y, min.y, max.y);
+				transform.position = pos;
+				}
+		void OnTriggerEnter2D (Collider2D c){
+				string layerName = LayerMask.LayerToName(c.gameObject.layer);
+				if( layerName == "Bullet (Enemy)"){
+						Destroy(c.gameObject);
+						}
+				if( layerName == "Bullet (Enemy)" || layerName == "Enemy"){
 						spaceship.Explosion();
 						Destroy (gameObject);
 						FindObjectOfType<Manager>().Dead();
-		}
+						}
 				if(c.gameObject.tag == "scoreup"){
 						GameObject itemget = (GameObject)Instantiate (getanim,transform.position, Quaternion.identity);
 						itemget.transform.parent = transform;
 						Destroy(c.gameObject);
 						FindObjectOfType<Score>().AddPoint(itempoint);
-				}
-
-
-				//option追加
+						}
 				if(c.gameObject.tag == "attackup"){
 						GameObject itemget = (GameObject)Instantiate (getanim,transform.position, Quaternion.identity);
 						itemget.transform.parent = transform;
@@ -222,12 +163,8 @@ public class Player : MonoBehaviour
 										break;
 
 								}
-
+								}
 						}
-
-
-
-				}
 
 				if(c.gameObject.tag == "speedup"){
 						GameObject itemget = (GameObject)Instantiate (getanim,transform.position, Quaternion.identity);
@@ -237,9 +174,8 @@ public class Player : MonoBehaviour
 								spaceship.basespeed += 0.1f;
 						}else{
 								Debug.Log ("speed MAX");
+								}
 						}
-
-				}
 
 				if(c.gameObject.tag == "delayup"){
 						GameObject itemget = (GameObject)Instantiate (getanim,transform.position, Quaternion.identity);

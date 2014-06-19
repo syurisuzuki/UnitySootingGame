@@ -180,9 +180,7 @@
      <Compile Include="Assets\NGUI\Scripts\UI\UITexture.cs" />
      <Compile Include="Assets\NGUI\Scripts\UI\UITooltip.cs" />
      <Compile Include="Assets\NGUI\Scripts\UI\UIViewport.cs" />
-     <Compile Include="Assets\NGUItestbtn.cs" />
      <Compile Include="Assets\New\Bulletcontroller.cs" />
-     <Compile Include="Assets\NewAutoaimBullet.cs" />
      <Compile Include="Assets\Scripts\Background.cs" />
      <Compile Include="Assets\Scripts\Bossrotate.cs" />
      <Compile Include="Assets\Scripts\Bullet.cs" />
@@ -195,10 +193,10 @@
      <Compile Include="Assets\Scripts\Nguitest.cs" />
      <Compile Include="Assets\Scripts\Player.cs" />
      <Compile Include="Assets\Scripts\Score.cs" />
+     <Compile Include="Assets\Scripts\Shotoption.cs" />
      <Compile Include="Assets\Scripts\Shotoptionbu.cs" />
      <Compile Include="Assets\Scripts\Spaceship.cs" />
      <Compile Include="Assets\Scripts\Textsample.cs" />
-     <Compile Include="Assets\Shotoption.cs" />
      <None Include="Assets\NGUI\Examples\Shaders\Unlit - Depth Cutout.shader" />
      <None Include="Assets\NGUI\ReadMe - 3.6.3.txt" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Text 2.shader" />

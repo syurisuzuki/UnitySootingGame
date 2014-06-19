@@ -2,13 +2,12 @@
 
 public class Bullet : MonoBehaviour
 {
-	// 弾の移動スピード
-	public int speed;
+		public int speed;
 		public int basespeed;
-	// ゲームオブジェクト生成から削除するまでの時間
-	public float lifeTime;
-	// 攻撃力
-	public int power;
+		
+		public float lifeTime;
+
+		public int power;
 		public int basepower;
 		public bool autoaim;
 		private Transform target;
@@ -16,14 +15,11 @@ public class Bullet : MonoBehaviour
 		private float speedaim = 0.06f;
 		public bool option;
 
-
-
 	void Start ()
 	{
 		rigidbody2D.velocity = transform.up.normalized * speed;
 		Destroy (gameObject, lifeTime);
 	}
-				
 
 		void Update(){
 		
@@ -36,7 +32,5 @@ public class Bullet : MonoBehaviour
 				}else{
 						transform.position += transform.forward * speed;
 				}
-						
-			
 		}
 }
