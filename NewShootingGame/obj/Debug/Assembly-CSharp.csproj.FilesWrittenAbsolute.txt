@@ -1,0 +1,6 @@
+/Users/clarine/Desktop/unity/NewShootingGame/Temp/bin/Debug/UnityEngine.dll
+/Users/clarine/Desktop/unity/NewShootingGame/Temp/bin/Debug/UnityEditor.dll
+/Users/clarine/Desktop/unity/NewShootingGame/Temp/bin/Debug/Mono.Cecil.dll
+/Users/clarine/Desktop/unity/NewShootingGame/Temp/bin/Debug/nunit.framework.dll
+/Users/clarine/Desktop/unity/NewShootingGame/Temp/bin/Debug/Unity.DataContract.dll
+/Users/clarine/Desktop/unity/NewShootingGame/Temp/bin/Debug/ICSharpCode.NRefactory.dll

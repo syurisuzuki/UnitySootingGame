@@ -1,0 +1,2506 @@
+fileFormatVersion: 2
+guid: 119d82d0d061746d59e9840654f73db5
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: stgbuilder_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 239
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 239
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_2
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 239
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_3
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 239
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_4
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 239
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 239
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 239
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_7
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 239
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_8
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 239
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_9
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 239
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_10
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 239
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_11
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 239
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_12
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 239
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_13
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 239
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_14
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 239
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_15
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 239
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_16
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 239
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_17
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 239
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_18
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 239
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_19
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 239
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_20
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 239
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_21
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 239
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_22
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 239
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_23
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 239
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 223
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_25
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 223
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_26
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 223
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_27
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 223
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_28
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 223
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_29
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 223
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_30
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 223
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_31
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 223
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_32
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 223
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_33
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 223
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_34
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 223
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_35
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 223
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_36
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 223
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_37
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 223
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_38
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 223
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_39
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 223
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_40
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 223
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_41
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 223
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_42
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 223
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_43
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 223
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_44
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 223
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_45
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 223
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_46
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 223
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_47
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 223
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_48
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 207
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_49
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 207
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_50
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 207
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_51
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 207
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_52
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 207
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_53
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 207
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_54
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 207
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_55
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 207
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_56
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 207
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_57
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 207
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_58
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 207
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_59
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 207
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_60
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 207
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_61
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 207
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_62
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 207
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_63
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 207
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_64
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 207
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_65
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 207
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_66
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 207
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_67
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 207
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_68
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 207
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_69
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 207
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_70
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 207
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_71
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 207
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_72
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 189
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_73
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 189
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_74
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 189
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_75
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 189
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_76
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 189
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_77
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 189
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_78
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 189
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_79
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 189
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_80
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 189
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_81
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 189
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_82
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 189
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_83
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 189
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_84
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 189
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_85
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 189
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_86
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 189
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_87
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 189
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_88
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 189
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_89
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 189
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_90
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 189
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_91
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 189
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_92
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 189
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_93
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 189
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_94
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 189
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_95
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 189
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_96
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 173
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_97
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 173
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_98
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 173
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_99
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 173
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_100
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 173
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_101
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 173
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_104
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 173
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_105
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 173
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_106
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 173
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_107
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 173
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_108
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 173
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_109
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 173
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_112
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 173
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_113
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 173
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_114
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 173
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_115
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 173
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_116
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 173
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_117
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 173
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_120
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 157
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_121
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 157
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_122
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 157
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_123
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 157
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_124
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 157
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_125
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 157
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_128
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 157
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_129
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 157
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_130
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 157
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_131
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 157
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_132
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 157
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_133
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 157
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_136
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 157
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_137
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 157
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_138
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 157
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_139
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 157
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_140
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 157
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_141
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 157
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_144
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 141
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_145
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 141
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_146
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 141
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_147
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 141
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_148
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 141
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_152
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 141
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_153
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 141
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_154
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 141
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_155
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 141
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_156
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 141
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_160
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 141
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_161
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 141
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_162
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 141
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_163
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 141
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_164
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 141
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_168
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 125
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_169
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 125
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_170
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 125
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_171
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 125
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_172
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 125
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_176
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 125
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_177
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 125
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_178
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 125
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_179
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 125
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_180
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 125
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_184
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 125
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_185
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 125
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_186
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 125
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_187
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 125
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_188
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 125
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_192
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 103
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_193
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 103
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_194
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 103
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_195
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 103
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_196
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 103
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_197
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 103
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_208
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 103
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_209
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 103
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_210
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 103
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_211
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 103
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_212
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 103
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_213
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 103
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_224
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 103
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_225
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 103
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_226
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 103
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_227
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 103
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_228
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 103
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_229
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 103
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_240
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 79
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_241
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 79
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_242
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 79
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_243
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 79
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_244
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 79
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_245
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 79
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_248
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 81
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_249
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 81
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_250
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 81
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_251
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 81
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_252
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 81
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_253
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 81
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_256
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 81
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_257
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 81
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_258
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 81
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_259
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 81
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_260
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 81
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_261
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 81
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_264
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 63
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_265
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 63
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_266
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 63
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_267
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 63
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_272
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 63
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_273
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 63
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_274
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 63
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_275
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 63
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_280
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 63
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_281
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 63
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_282
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 63
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_283
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 63
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_288
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 45
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_289
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 45
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_290
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 45
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_291
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 45
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_296
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 45
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_297
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 45
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_298
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 45
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_299
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 45
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_304
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 45
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_305
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 45
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_306
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 45
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_307
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 45
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_312
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 18
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_313
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 18
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_314
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 18
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_315
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 18
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_316
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 18
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_317
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 18
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_318
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 18
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_319
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 18
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_320
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 18
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_321
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 18
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_322
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 18
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_323
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 18
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_324
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 18
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_325
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 18
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_326
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 18
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_327
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 18
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_328
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 18
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_329
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 18
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_330
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 18
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_331
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 18
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_332
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 18
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_333
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 18
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_334
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 18
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stgbuilder_335
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 18
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

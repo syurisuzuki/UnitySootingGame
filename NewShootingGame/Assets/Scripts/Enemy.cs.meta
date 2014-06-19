@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 748bc74c1fabf4c5cbcca4c2475615f6
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ScoreUpItem: {fileID: 100000, guid: 9a99fbeeae1644200b54fc3fd2f91a90, type: 2}
+  - AttackUpItem: {instanceID: 0}
+  - LifeUpItem: {instanceID: 0}
+  - ModelChengeItem: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
