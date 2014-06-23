@@ -104,6 +104,10 @@ public class Player : MonoBehaviour
 						}
 				}
 
+		public void Dextroyplayer(){
+				Destroy (gameObject);
+		}
+
 		void Move (Vector2 direction){
 				Vector2 min = Camera.main.ViewportToWorldPoint(new Vector2(0.26f, 0));
 				Vector2 max = Camera.main.ViewportToWorldPoint(new Vector2(1, 1));
@@ -154,7 +158,7 @@ public class Player : MonoBehaviour
 						if(spaceship.basespeed<10){
 								spaceship.basespeed += 0.1f;
 						}else{
-								Debug.Log ("speed MAX");
+								/*Debug.Log ("speed MAX");*/
 								}
 						}
 
@@ -165,7 +169,7 @@ public class Player : MonoBehaviour
 						if(spaceship.shotDelay>0.1f){
 								spaceship.baseshotDelay -= 0.03f;
 						}else{
-								Debug.Log ("shotdelay MAX");
+								/*Debug.Log ("shotdelay MAX");*/
 						}
 				}
 
@@ -191,6 +195,12 @@ public class Player : MonoBehaviour
 								FindObjectOfType<Score>().AddPoint(itempoint);
 						}
 
+				}
+
+				if(c.gameObject.tag == "CLEARFLAG"){
+						Destroy (gameObject);
+						Destroy (c.gameObject);
+						FindObjectOfType<Manager>().GameClear();
 				}
 	}
 }

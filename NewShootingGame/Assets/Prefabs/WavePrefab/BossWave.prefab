@@ -265,11 +265,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hp: 1000
   point: 5000
-  ScoreUpItem: {fileID: 100000, guid: 9a8b731b3d56e41f589ed739c2ddb6be, type: 2}
-  SpeedupUpItem: {fileID: 100000, guid: 9a8b731b3d56e41f589ed739c2ddb6be, type: 2}
-  LifeUpItem: {fileID: 100000, guid: 9a8b731b3d56e41f589ed739c2ddb6be, type: 2}
-  DelayUpItem: {fileID: 100000, guid: 9a8b731b3d56e41f589ed739c2ddb6be, type: 2}
-  ModelChengeItem: {fileID: 100000, guid: 9a8b731b3d56e41f589ed739c2ddb6be, type: 2}
+  ScoreUpItem: {fileID: 100000, guid: 5516740fd562243d3b0f221e5eed07af, type: 2}
+  SpeedupUpItem: {fileID: 100000, guid: 5516740fd562243d3b0f221e5eed07af, type: 2}
+  LifeUpItem: {fileID: 100000, guid: 5516740fd562243d3b0f221e5eed07af, type: 2}
+  DelayUpItem: {fileID: 100000, guid: 5516740fd562243d3b0f221e5eed07af, type: 2}
+  ModelChengeItem: {fileID: 100000, guid: 5516740fd562243d3b0f221e5eed07af, type: 2}
   boss: 1
   enemypo: {x: 0, y: 0, z: 0}
 --- !u!114 &11400010

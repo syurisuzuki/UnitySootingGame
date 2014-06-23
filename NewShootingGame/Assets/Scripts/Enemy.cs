@@ -45,7 +45,7 @@ public class Enemy : MonoBehaviour
 				}
 
 		void OnTriggerEnter2D (Collider2D c){
-				Debug.Log("collision!!");
+				/*	Debug.Log("collision!!");*/
 				string layerName = LayerMask.LayerToName (c.gameObject.layer);
 				if(layerName == "Bullet (option)"){
 						Transform optionBulletTranceform = c.transform.parent;
@@ -84,7 +84,7 @@ public class Enemy : MonoBehaviour
 										Instantiate (LifeUpItem, itempos, transform.rotation);
 										break;
 								default:
-										Debug.Log (j);
+										/*Debug.Log (j);*/
 										break;
 								}
 						}

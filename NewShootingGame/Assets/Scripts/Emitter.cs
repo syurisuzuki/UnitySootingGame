@@ -10,6 +10,8 @@ public class Emitter : MonoBehaviour
 		private int currentWave;
 		private Manager manager;
 
+		private GameObject player;
+
 	
 	IEnumerator Start ()
 	{
@@ -19,35 +21,28 @@ public class Emitter : MonoBehaviour
 
 			manager = FindObjectOfType<Manager>();
 		
-						while (true) {
-						while(manager.IsPlaying() == false) {
-							yield return new WaitForEndOfFrame ();
+				while (true) {
+						while (manager.IsPlaying () == false) {
+								yield return new WaitForEndOfFrame ();
 						}
-
 						GameObject g = (GameObject)Instantiate (waves [currentWave], transform.position, Quaternion.identity);
-			g.transform.parent = transform;
+						g.transform.parent = transform;
 						while (g.transform.childCount != 0) {
 								yield return new WaitForEndOfFrame ();
 						}
 						Destroy (g);
-
-						if(waves.Length ==1){
-							Instantiate (EnemyHP, transform.position, Quaternion.identity);
-						}
-
-						if(currentWave ==18){
+						if (waves.Length < ++currentWave) {
 								currentWave = 0;
-								Destroy (g);
-
+						}else if(waves.Length == ++currentWave){
+								FindObjectOfType<Manager>().GameClear();
+								currentWave = 0;
+								player = GameObject.Find ("Player(Clone)");
+								Destroy (player);
+								while (manager.ClearGame() == true) {
+										yield return new WaitForEndOfFrame ();
+								}
 						}
-
-						if (waves.Length <= ++currentWave) {
-							currentWave = 0;
-								manager.GameClear();
-						}
-
-			
-						}
+				}
 	}
 		public void rest(){
 				currentWave = 0;

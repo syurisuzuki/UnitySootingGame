@@ -50,24 +50,24 @@ public class Shotoption : MonoBehaviour {
 		public void Shot (){
 				switch(state){
 				case OptionState.OPTION_NORMAL:
-						Debug.Log ("normal shot");
+						/*Debug.Log ("normal shot");*/
 						Instantiate (OPbullet, transform.position, Quaternion.identity);
 						break;
 				case OptionState.OPTION_HEAVY:
 						Instantiate (OPbullet2, transform.position, Quaternion.identity);
-						Debug.Log ("heavy shot");
+				/*Debug.Log ("heavy shot");*/
 						break;
 				case OptionState.OPTION_RAPID:
 						Instantiate (OPbullet3, transform.position, Quaternion.identity);
-						Debug.Log ("rapid shot");
+						/*Debug.Log ("rapid shot");*/
 						break;
 				case OptionState.OPTION_EXTEND:
 						Instantiate (OPbullet4, transform.position, Quaternion.identity);
-						Debug.Log ("extend shot");
+						/*Debug.Log ("extend shot");*/
 						break;
 				case OptionState.OPTION_FINAL:
 						Instantiate (OPbullet5, transform.position, Quaternion.identity);
-						Debug.Log ("finel shot");
+						/*Debug.Log ("finel shot");*/
 						break;
 				}
 		}

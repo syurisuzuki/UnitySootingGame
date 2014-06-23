@@ -5,6 +5,8 @@ public class Manager : MonoBehaviour
 		public GameObject player;
 		private GameObject title;
 		private GameObject clear;
+		private bool clearb;
+		public KeyCode enter;
 		public int zanki;
 		private string ltext ="NORMAL";
 	
@@ -12,6 +14,7 @@ public class Manager : MonoBehaviour
 				title = GameObject.Find ("Title");
 				clear = GameObject.Find ("Clear");
 				clear.SetActive(false);
+				clearb = false;
 				}
 	
 		void Update ()
@@ -19,9 +22,10 @@ public class Manager : MonoBehaviour
 		if (IsPlaying () == false && Input.GetKeyDown (KeyCode.X)) {
 						GameStart ();
 						}
-				if(ClearGame() == true && Input.GetKeyDown(KeyCode.X)){
-						ClearGame ();
+				if(clearb ==true && Input.GetKeyDown(enter)){
+						result ();
 				}
+						
 				}
 	
 		void GameStart (){
@@ -39,11 +43,20 @@ public class Manager : MonoBehaviour
 				}
 
 		public void GameClear(){
+				/*FindObjectOfType<Score>().Save();
+				FindObjectOfType<Emitter>().rest();*/
+				//title.SetActive (true);
+				clearb = true;
+				clear.SetActive (true);
+		}
+
+		public void result(){
+				Debug.Log ("re");
 				FindObjectOfType<Score>().Save();
 				FindObjectOfType<Emitter>().rest();
-				title.SetActive (true);
 				clear.SetActive (false);
-
+				clearb = false;
+				GameStart ();
 		}
 
 		public void Dead(){
