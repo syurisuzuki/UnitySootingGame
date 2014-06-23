@@ -27,8 +27,6 @@ public class Bullet : MonoBehaviour
 						target = GameObject.Find ("Player(Clone)").transform;
 						transform.rotation = Quaternion.Slerp(transform.rotation, Quaternion.LookRotation(target.position - transform.position), 0.9f);
 						transform.position += transform.right * -speedaim;
-				}else if(option==true){
-						transform.position += transform.forward * speed;
 				}else{
 						transform.position += transform.forward * speed;
 				}

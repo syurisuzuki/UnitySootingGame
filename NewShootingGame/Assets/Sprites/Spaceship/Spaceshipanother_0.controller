@@ -126,7 +126,7 @@ State:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: optionPLAYER
-  m_Speed: .5
+  m_Speed: 1
   m_CycleOffset: 0
   m_Motions:
   - {fileID: 7400000, guid: 587171c8c26e34339a49297d9587c65d, type: 2}
@@ -141,7 +141,7 @@ State:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: Rightmove
-  m_Speed: .5
+  m_Speed: 1
   m_CycleOffset: 0
   m_Motions:
   - {fileID: 7400000, guid: 69e2e1dbbd17f4b639f8f75c5294e219, type: 2}
@@ -156,7 +156,7 @@ State:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: Leftmove
-  m_Speed: .5
+  m_Speed: 1
   m_CycleOffset: 0
   m_Motions:
   - {fileID: 7400000, guid: b248c24abb50542a6953e26da96b3ec3, type: 2}
@@ -171,7 +171,7 @@ State:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: Rightcurve
-  m_Speed: .5
+  m_Speed: 1
   m_CycleOffset: 0
   m_Motions:
   - {fileID: 7400000, guid: 67e2b50c82c8843a3a886ee7b938cfbc, type: 2}
@@ -186,7 +186,7 @@ State:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: Leftcurve
-  m_Speed: .5
+  m_Speed: 1
   m_CycleOffset: 0
   m_Motions:
   - {fileID: 7400000, guid: 8b86101b462244fd383baca2608d9106, type: 2}
@@ -213,25 +213,25 @@ StateMachine:
   m_ChildStateMachinePosition: []
   m_OrderedTransitions:
     data:
-      first: {fileID: 110284407}
+      first: {fileID: 110200000}
       second:
-      - {fileID: 110191722}
-    data:
-      first: {fileID: 110262355}
-      second:
-      - {fileID: 110162580}
-    data:
-      first: {fileID: 110236030}
-      second:
-      - {fileID: 110107053}
+      - {fileID: 110100000}
     data:
       first: {fileID: 110204388}
       second:
       - {fileID: 110188402}
     data:
-      first: {fileID: 110200000}
+      first: {fileID: 110236030}
       second:
-      - {fileID: 110100000}
+      - {fileID: 110107053}
+    data:
+      first: {fileID: 110262355}
+      second:
+      - {fileID: 110162580}
+    data:
+      first: {fileID: 110284407}
+      second:
+      - {fileID: 110191722}
   m_MotionSetCount: 1
   m_AnyStatePosition: {x: 50, y: 20, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}

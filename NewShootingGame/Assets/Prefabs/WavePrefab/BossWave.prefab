@@ -103,7 +103,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 100000}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: .0589143038, y: -2.55284023, z: 0}
+  m_LocalPosition: {x: -.146838307, y: 1.79282892, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 400010}
@@ -196,7 +196,7 @@ PolygonCollider2D:
   m_GameObject: {fileID: 100010}
   m_Enabled: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Poly:
     m_Paths:
     - - {x: .379999995, y: -.379999995}
@@ -263,14 +263,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 748bc74c1fabf4c5cbcca4c2475615f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hp: 200
-  point: 3000
+  hp: 1000
+  point: 5000
   ScoreUpItem: {fileID: 100000, guid: 9a8b731b3d56e41f589ed739c2ddb6be, type: 2}
   SpeedupUpItem: {fileID: 100000, guid: 9a8b731b3d56e41f589ed739c2ddb6be, type: 2}
   LifeUpItem: {fileID: 100000, guid: 9a8b731b3d56e41f589ed739c2ddb6be, type: 2}
   DelayUpItem: {fileID: 100000, guid: 9a8b731b3d56e41f589ed739c2ddb6be, type: 2}
   ModelChengeItem: {fileID: 100000, guid: 9a8b731b3d56e41f589ed739c2ddb6be, type: 2}
   boss: 1
+  enemypo: {x: 0, y: 0, z: 0}
 --- !u!114 &11400010
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -284,7 +285,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 1
   basespeed: .5
-  shotDelay: 2.9000001
+  shotDelay: 1.57000005
   baseshotDelay: .5
   bullet: {fileID: 100000, guid: 57f7ec5e9d3c144088f694833ff52b3a, type: 2}
   canShot: 1

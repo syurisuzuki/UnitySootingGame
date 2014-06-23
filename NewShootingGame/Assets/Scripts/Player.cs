@@ -136,34 +136,15 @@ public class Player : MonoBehaviour
 						if(fulloption==false){
 								GameObject s =(GameObject)Instantiate (options, transform.position, Quaternion.identity);
 								s.transform.parent = transform;
-								switch(optionhaves){
-								case 0:
-										optionhaves++;
-
-										break;
-								case 1:
-										optionhaves++;
-										s.transform.position *= 1.1f;
-										break;
-								case 2:
-										optionhaves++;
-										s.transform.position *= 0.9f;
-										break;
-								case 3:
-										optionhaves++;
-										s.transform.position *= 1.2f;
-										break;
-								case 4:
-										optionhaves++;
-										s.transform.position *= 0.8f;
+								optionhaves++;
+								if(optionhaves==5){
 										fulloption = true;
-										break;
-								default:
-										FindObjectOfType<Score> ().AddPoint (itempoint);
-										break;
+								}else{
+										FindObjectOfType<Score>().AddPoint(itempoint);
+								}
+						}
 
-								}
-								}
+
 						}
 
 				if(c.gameObject.tag == "speedup"){
@@ -182,7 +163,7 @@ public class Player : MonoBehaviour
 						itemget.transform.parent = transform;
 						Destroy(c.gameObject);
 						if(spaceship.shotDelay>0.1f){
-								spaceship.baseshotDelay -= 0.01f;
+								spaceship.baseshotDelay -= 0.03f;
 						}else{
 								Debug.Log ("shotdelay MAX");
 						}

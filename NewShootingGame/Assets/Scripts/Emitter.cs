@@ -3,10 +3,13 @@ using System.Collections;
 
 public class Emitter : MonoBehaviour
 {
+
+		/*oidhowethosfhp*/
 		public GameObject[] waves;
 		public GameObject EnemyHP;
 		private int currentWave;
 		private Manager manager;
+
 	
 	IEnumerator Start ()
 	{
@@ -31,9 +34,18 @@ public class Emitter : MonoBehaviour
 						if(waves.Length ==1){
 							Instantiate (EnemyHP, transform.position, Quaternion.identity);
 						}
+
+						if(currentWave ==18){
+								currentWave = 0;
+								Destroy (g);
+
+						}
+
 						if (waves.Length <= ++currentWave) {
 							currentWave = 0;
+								manager.GameClear();
 						}
+
 			
 						}
 	}

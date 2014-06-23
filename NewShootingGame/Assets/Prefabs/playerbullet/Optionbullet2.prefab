@@ -114,7 +114,7 @@ MonoBehaviour:
   speed: 1
   basespeed: 1
   lifeTime: 5
-  power: 15
+  power: 12
   basepower: 1
   autoaim: 0
   option: 0

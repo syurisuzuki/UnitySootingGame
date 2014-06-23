@@ -1482,12 +1482,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 748bc74c1fabf4c5cbcca4c2475615f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hp: 4
-  point: 10
-  ScoreUpItem: {fileID: 100000, guid: 7c5ce65809db245afa3b68ebd18f3949, type: 2}
+  hp: 10
+  point: 70
+  ScoreUpItem: {fileID: 100000, guid: 13318f8aa79384f11b352558c49e351a, type: 2}
   SpeedupUpItem: {fileID: 100000, guid: e4d4be33a825544168c890cf5eb2e9a0, type: 2}
   LifeUpItem: {fileID: 100000, guid: 2e2a6de6cdafb4e69ac1534dc96aeede, type: 2}
-  DelayUpItem: {fileID: 100000, guid: e4cb7139e756d4300967e42d520b0913, type: 2}
+  DelayUpItem: {fileID: 100000, guid: 355aa2fae84924165b01fa23a5a6e075, type: 2}
   ModelChengeItem: {fileID: 100000, guid: 9a8b731b3d56e41f589ed739c2ddb6be, type: 2}
   boss: 0
   enemypo: {x: 0, y: 0, z: 0}
@@ -1537,12 +1537,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 748bc74c1fabf4c5cbcca4c2475615f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hp: 4
-  point: 10
-  ScoreUpItem: {fileID: 100000, guid: 7c5ce65809db245afa3b68ebd18f3949, type: 2}
+  hp: 10
+  point: 70
+  ScoreUpItem: {fileID: 100000, guid: 13318f8aa79384f11b352558c49e351a, type: 2}
   SpeedupUpItem: {fileID: 100000, guid: e4d4be33a825544168c890cf5eb2e9a0, type: 2}
   LifeUpItem: {fileID: 100000, guid: 2e2a6de6cdafb4e69ac1534dc96aeede, type: 2}
-  DelayUpItem: {fileID: 100000, guid: e4cb7139e756d4300967e42d520b0913, type: 2}
+  DelayUpItem: {fileID: 100000, guid: 355aa2fae84924165b01fa23a5a6e075, type: 2}
   ModelChengeItem: {fileID: 100000, guid: 9a8b731b3d56e41f589ed739c2ddb6be, type: 2}
   boss: 0
   enemypo: {x: 0, y: 0, z: 0}
@@ -1576,12 +1576,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 748bc74c1fabf4c5cbcca4c2475615f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hp: 50
-  point: 120
-  ScoreUpItem: {fileID: 100000, guid: 7c5ce65809db245afa3b68ebd18f3949, type: 2}
+  hp: 40
+  point: 70
+  ScoreUpItem: {fileID: 100000, guid: 13318f8aa79384f11b352558c49e351a, type: 2}
   SpeedupUpItem: {fileID: 100000, guid: e4d4be33a825544168c890cf5eb2e9a0, type: 2}
   LifeUpItem: {fileID: 100000, guid: 2e2a6de6cdafb4e69ac1534dc96aeede, type: 2}
-  DelayUpItem: {fileID: 100000, guid: e4cb7139e756d4300967e42d520b0913, type: 2}
+  DelayUpItem: {fileID: 100000, guid: 355aa2fae84924165b01fa23a5a6e075, type: 2}
   ModelChengeItem: {fileID: 100000, guid: 9a8b731b3d56e41f589ed739c2ddb6be, type: 2}
   boss: 0
   enemypo: {x: 0, y: 0, z: 0}
@@ -1596,12 +1596,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 748bc74c1fabf4c5cbcca4c2475615f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hp: 4
-  point: 10
-  ScoreUpItem: {fileID: 100000, guid: 7c5ce65809db245afa3b68ebd18f3949, type: 2}
+  hp: 10
+  point: 70
+  ScoreUpItem: {fileID: 100000, guid: 13318f8aa79384f11b352558c49e351a, type: 2}
   SpeedupUpItem: {fileID: 100000, guid: e4d4be33a825544168c890cf5eb2e9a0, type: 2}
   LifeUpItem: {fileID: 100000, guid: 2e2a6de6cdafb4e69ac1534dc96aeede, type: 2}
-  DelayUpItem: {fileID: 100000, guid: e4cb7139e756d4300967e42d520b0913, type: 2}
+  DelayUpItem: {fileID: 100000, guid: 355aa2fae84924165b01fa23a5a6e075, type: 2}
   ModelChengeItem: {fileID: 100000, guid: 9a8b731b3d56e41f589ed739c2ddb6be, type: 2}
   boss: 0
   enemypo: {x: 0, y: 0, z: 0}
@@ -1635,12 +1635,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 748bc74c1fabf4c5cbcca4c2475615f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hp: 4
-  point: 10
-  ScoreUpItem: {fileID: 100000, guid: 7c5ce65809db245afa3b68ebd18f3949, type: 2}
+  hp: 10
+  point: 70
+  ScoreUpItem: {fileID: 100000, guid: 13318f8aa79384f11b352558c49e351a, type: 2}
   SpeedupUpItem: {fileID: 100000, guid: e4d4be33a825544168c890cf5eb2e9a0, type: 2}
   LifeUpItem: {fileID: 100000, guid: 2e2a6de6cdafb4e69ac1534dc96aeede, type: 2}
-  DelayUpItem: {fileID: 100000, guid: e4cb7139e756d4300967e42d520b0913, type: 2}
+  DelayUpItem: {fileID: 100000, guid: 355aa2fae84924165b01fa23a5a6e075, type: 2}
   ModelChengeItem: {fileID: 100000, guid: 9a8b731b3d56e41f589ed739c2ddb6be, type: 2}
   boss: 0
   enemypo: {x: 0, y: 0, z: 0}
@@ -1674,12 +1674,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 748bc74c1fabf4c5cbcca4c2475615f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hp: 4
-  point: 10
-  ScoreUpItem: {fileID: 100000, guid: 7c5ce65809db245afa3b68ebd18f3949, type: 2}
+  hp: 10
+  point: 70
+  ScoreUpItem: {fileID: 100000, guid: 13318f8aa79384f11b352558c49e351a, type: 2}
   SpeedupUpItem: {fileID: 100000, guid: e4d4be33a825544168c890cf5eb2e9a0, type: 2}
   LifeUpItem: {fileID: 100000, guid: 2e2a6de6cdafb4e69ac1534dc96aeede, type: 2}
-  DelayUpItem: {fileID: 100000, guid: e4cb7139e756d4300967e42d520b0913, type: 2}
+  DelayUpItem: {fileID: 100000, guid: 355aa2fae84924165b01fa23a5a6e075, type: 2}
   ModelChengeItem: {fileID: 100000, guid: 9a8b731b3d56e41f589ed739c2ddb6be, type: 2}
   boss: 0
   enemypo: {x: 0, y: 0, z: 0}
@@ -1732,12 +1732,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 748bc74c1fabf4c5cbcca4c2475615f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hp: 4
-  point: 10
-  ScoreUpItem: {fileID: 100000, guid: 7c5ce65809db245afa3b68ebd18f3949, type: 2}
+  hp: 10
+  point: 70
+  ScoreUpItem: {fileID: 100000, guid: 13318f8aa79384f11b352558c49e351a, type: 2}
   SpeedupUpItem: {fileID: 100000, guid: e4d4be33a825544168c890cf5eb2e9a0, type: 2}
   LifeUpItem: {fileID: 100000, guid: 2e2a6de6cdafb4e69ac1534dc96aeede, type: 2}
-  DelayUpItem: {fileID: 100000, guid: e4cb7139e756d4300967e42d520b0913, type: 2}
+  DelayUpItem: {fileID: 100000, guid: 355aa2fae84924165b01fa23a5a6e075, type: 2}
   ModelChengeItem: {fileID: 100000, guid: 9a8b731b3d56e41f589ed739c2ddb6be, type: 2}
   boss: 0
   enemypo: {x: 0, y: 0, z: 0}
@@ -1790,12 +1790,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 748bc74c1fabf4c5cbcca4c2475615f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hp: 4
-  point: 10
-  ScoreUpItem: {fileID: 100000, guid: 7c5ce65809db245afa3b68ebd18f3949, type: 2}
+  hp: 10
+  point: 70
+  ScoreUpItem: {fileID: 100000, guid: 13318f8aa79384f11b352558c49e351a, type: 2}
   SpeedupUpItem: {fileID: 100000, guid: e4d4be33a825544168c890cf5eb2e9a0, type: 2}
   LifeUpItem: {fileID: 100000, guid: 2e2a6de6cdafb4e69ac1534dc96aeede, type: 2}
-  DelayUpItem: {fileID: 100000, guid: e4cb7139e756d4300967e42d520b0913, type: 2}
+  DelayUpItem: {fileID: 100000, guid: 355aa2fae84924165b01fa23a5a6e075, type: 2}
   ModelChengeItem: {fileID: 100000, guid: 9a8b731b3d56e41f589ed739c2ddb6be, type: 2}
   boss: 0
   enemypo: {x: 0, y: 0, z: 0}
@@ -1867,12 +1867,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 748bc74c1fabf4c5cbcca4c2475615f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hp: 4
-  point: 10
-  ScoreUpItem: {fileID: 100000, guid: 7c5ce65809db245afa3b68ebd18f3949, type: 2}
+  hp: 10
+  point: 70
+  ScoreUpItem: {fileID: 100000, guid: 13318f8aa79384f11b352558c49e351a, type: 2}
   SpeedupUpItem: {fileID: 100000, guid: e4d4be33a825544168c890cf5eb2e9a0, type: 2}
   LifeUpItem: {fileID: 100000, guid: 2e2a6de6cdafb4e69ac1534dc96aeede, type: 2}
-  DelayUpItem: {fileID: 100000, guid: e4cb7139e756d4300967e42d520b0913, type: 2}
+  DelayUpItem: {fileID: 100000, guid: 355aa2fae84924165b01fa23a5a6e075, type: 2}
   ModelChengeItem: {fileID: 100000, guid: 9a8b731b3d56e41f589ed739c2ddb6be, type: 2}
   boss: 0
   enemypo: {x: 0, y: 0, z: 0}
@@ -1887,12 +1887,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 748bc74c1fabf4c5cbcca4c2475615f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hp: 4
-  point: 10
-  ScoreUpItem: {fileID: 100000, guid: 7c5ce65809db245afa3b68ebd18f3949, type: 2}
+  hp: 10
+  point: 70
+  ScoreUpItem: {fileID: 100000, guid: 13318f8aa79384f11b352558c49e351a, type: 2}
   SpeedupUpItem: {fileID: 100000, guid: e4d4be33a825544168c890cf5eb2e9a0, type: 2}
   LifeUpItem: {fileID: 100000, guid: 2e2a6de6cdafb4e69ac1534dc96aeede, type: 2}
-  DelayUpItem: {fileID: 100000, guid: e4cb7139e756d4300967e42d520b0913, type: 2}
+  DelayUpItem: {fileID: 100000, guid: 355aa2fae84924165b01fa23a5a6e075, type: 2}
   ModelChengeItem: {fileID: 100000, guid: 9a8b731b3d56e41f589ed739c2ddb6be, type: 2}
   boss: 0
   enemypo: {x: 0, y: 0, z: 0}
@@ -1926,12 +1926,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 748bc74c1fabf4c5cbcca4c2475615f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hp: 4
-  point: 10
-  ScoreUpItem: {fileID: 100000, guid: 7c5ce65809db245afa3b68ebd18f3949, type: 2}
+  hp: 10
+  point: 70
+  ScoreUpItem: {fileID: 100000, guid: 13318f8aa79384f11b352558c49e351a, type: 2}
   SpeedupUpItem: {fileID: 100000, guid: e4d4be33a825544168c890cf5eb2e9a0, type: 2}
   LifeUpItem: {fileID: 100000, guid: 2e2a6de6cdafb4e69ac1534dc96aeede, type: 2}
-  DelayUpItem: {fileID: 100000, guid: e4cb7139e756d4300967e42d520b0913, type: 2}
+  DelayUpItem: {fileID: 100000, guid: 355aa2fae84924165b01fa23a5a6e075, type: 2}
   ModelChengeItem: {fileID: 100000, guid: 9a8b731b3d56e41f589ed739c2ddb6be, type: 2}
   boss: 0
   enemypo: {x: 0, y: 0, z: 0}
@@ -1965,12 +1965,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 748bc74c1fabf4c5cbcca4c2475615f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hp: 4
-  point: 10
-  ScoreUpItem: {fileID: 100000, guid: 7c5ce65809db245afa3b68ebd18f3949, type: 2}
+  hp: 10
+  point: 70
+  ScoreUpItem: {fileID: 100000, guid: 13318f8aa79384f11b352558c49e351a, type: 2}
   SpeedupUpItem: {fileID: 100000, guid: e4d4be33a825544168c890cf5eb2e9a0, type: 2}
   LifeUpItem: {fileID: 100000, guid: 2e2a6de6cdafb4e69ac1534dc96aeede, type: 2}
-  DelayUpItem: {fileID: 100000, guid: e4cb7139e756d4300967e42d520b0913, type: 2}
+  DelayUpItem: {fileID: 100000, guid: 355aa2fae84924165b01fa23a5a6e075, type: 2}
   ModelChengeItem: {fileID: 100000, guid: 9a8b731b3d56e41f589ed739c2ddb6be, type: 2}
   boss: 0
   enemypo: {x: 0, y: 0, z: 0}
@@ -1985,12 +1985,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 748bc74c1fabf4c5cbcca4c2475615f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hp: 4
-  point: 10
-  ScoreUpItem: {fileID: 100000, guid: 7c5ce65809db245afa3b68ebd18f3949, type: 2}
+  hp: 10
+  point: 70
+  ScoreUpItem: {fileID: 100000, guid: 13318f8aa79384f11b352558c49e351a, type: 2}
   SpeedupUpItem: {fileID: 100000, guid: e4d4be33a825544168c890cf5eb2e9a0, type: 2}
   LifeUpItem: {fileID: 100000, guid: 2e2a6de6cdafb4e69ac1534dc96aeede, type: 2}
-  DelayUpItem: {fileID: 100000, guid: e4cb7139e756d4300967e42d520b0913, type: 2}
+  DelayUpItem: {fileID: 100000, guid: 355aa2fae84924165b01fa23a5a6e075, type: 2}
   ModelChengeItem: {fileID: 100000, guid: 9a8b731b3d56e41f589ed739c2ddb6be, type: 2}
   boss: 0
   enemypo: {x: 0, y: 0, z: 0}

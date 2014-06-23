@@ -4886,7 +4886,7 @@ MonoBehaviour:
   shotDelay: 1.96000004
   baseshotDelay: 0
   bullet: {fileID: 100000, guid: 9a99fbeeae1644200b54fc3fd2f91a90, type: 2}
-  canShot: 1
+  canShot: 0
   explosion: {fileID: 100000, guid: a7ed0315d0e664da9bcb03d47e23e682, type: 2}
   getanim: {fileID: 0}
 --- !u!114 &11400002
@@ -4925,7 +4925,7 @@ MonoBehaviour:
   shotDelay: 1.96000004
   baseshotDelay: 0
   bullet: {fileID: 100000, guid: 9a99fbeeae1644200b54fc3fd2f91a90, type: 2}
-  canShot: 1
+  canShot: 0
   explosion: {fileID: 100000, guid: a7ed0315d0e664da9bcb03d47e23e682, type: 2}
   getanim: {fileID: 0}
 --- !u!114 &11400006
@@ -4964,7 +4964,7 @@ MonoBehaviour:
   shotDelay: 1.96000004
   baseshotDelay: 0
   bullet: {fileID: 100000, guid: 9a99fbeeae1644200b54fc3fd2f91a90, type: 2}
-  canShot: 1
+  canShot: 0
   explosion: {fileID: 100000, guid: a7ed0315d0e664da9bcb03d47e23e682, type: 2}
   getanim: {fileID: 0}
 --- !u!114 &11400010
@@ -5003,7 +5003,7 @@ MonoBehaviour:
   shotDelay: 1.96000004
   baseshotDelay: 0
   bullet: {fileID: 100000, guid: 9a99fbeeae1644200b54fc3fd2f91a90, type: 2}
-  canShot: 1
+  canShot: 0
   explosion: {fileID: 100000, guid: a7ed0315d0e664da9bcb03d47e23e682, type: 2}
   getanim: {fileID: 0}
 --- !u!114 &11400014
@@ -5042,7 +5042,7 @@ MonoBehaviour:
   shotDelay: 1.96000004
   baseshotDelay: 0
   bullet: {fileID: 100000, guid: 9a99fbeeae1644200b54fc3fd2f91a90, type: 2}
-  canShot: 1
+  canShot: 0
   explosion: {fileID: 100000, guid: a7ed0315d0e664da9bcb03d47e23e682, type: 2}
   getanim: {fileID: 0}
 --- !u!114 &11400018
@@ -5081,7 +5081,7 @@ MonoBehaviour:
   shotDelay: 1.96000004
   baseshotDelay: 0
   bullet: {fileID: 100000, guid: 9a99fbeeae1644200b54fc3fd2f91a90, type: 2}
-  canShot: 1
+  canShot: 0
   explosion: {fileID: 100000, guid: a7ed0315d0e664da9bcb03d47e23e682, type: 2}
   getanim: {fileID: 0}
 --- !u!114 &11400022
@@ -5120,7 +5120,7 @@ MonoBehaviour:
   shotDelay: 1.96000004
   baseshotDelay: 0
   bullet: {fileID: 100000, guid: 9a99fbeeae1644200b54fc3fd2f91a90, type: 2}
-  canShot: 1
+  canShot: 0
   explosion: {fileID: 100000, guid: a7ed0315d0e664da9bcb03d47e23e682, type: 2}
   getanim: {fileID: 0}
 --- !u!114 &11400026
@@ -5159,7 +5159,7 @@ MonoBehaviour:
   shotDelay: 1.96000004
   baseshotDelay: 0
   bullet: {fileID: 100000, guid: 9a99fbeeae1644200b54fc3fd2f91a90, type: 2}
-  canShot: 1
+  canShot: 0
   explosion: {fileID: 100000, guid: a7ed0315d0e664da9bcb03d47e23e682, type: 2}
   getanim: {fileID: 0}
 --- !u!114 &11400030
@@ -5198,7 +5198,7 @@ MonoBehaviour:
   shotDelay: 1.96000004
   baseshotDelay: 0
   bullet: {fileID: 100000, guid: 9a99fbeeae1644200b54fc3fd2f91a90, type: 2}
-  canShot: 1
+  canShot: 0
   explosion: {fileID: 100000, guid: a7ed0315d0e664da9bcb03d47e23e682, type: 2}
   getanim: {fileID: 0}
 --- !u!114 &11400034
@@ -5237,7 +5237,7 @@ MonoBehaviour:
   shotDelay: 1.96000004
   baseshotDelay: 0
   bullet: {fileID: 100000, guid: 9a99fbeeae1644200b54fc3fd2f91a90, type: 2}
-  canShot: 1
+  canShot: 0
   explosion: {fileID: 100000, guid: a7ed0315d0e664da9bcb03d47e23e682, type: 2}
   getanim: {fileID: 0}
 --- !u!114 &11400038
@@ -5276,7 +5276,7 @@ MonoBehaviour:
   shotDelay: 1.96000004
   baseshotDelay: 0
   bullet: {fileID: 100000, guid: 9a99fbeeae1644200b54fc3fd2f91a90, type: 2}
-  canShot: 1
+  canShot: 0
   explosion: {fileID: 100000, guid: a7ed0315d0e664da9bcb03d47e23e682, type: 2}
   getanim: {fileID: 0}
 --- !u!114 &11400042
@@ -5315,7 +5315,7 @@ MonoBehaviour:
   shotDelay: 1.96000004
   baseshotDelay: 0
   bullet: {fileID: 100000, guid: 9a99fbeeae1644200b54fc3fd2f91a90, type: 2}
-  canShot: 1
+  canShot: 0
   explosion: {fileID: 100000, guid: a7ed0315d0e664da9bcb03d47e23e682, type: 2}
   getanim: {fileID: 0}
 --- !u!114 &11400046
@@ -5393,7 +5393,7 @@ MonoBehaviour:
   shotDelay: 1.96000004
   baseshotDelay: 0
   bullet: {fileID: 100000, guid: 9a99fbeeae1644200b54fc3fd2f91a90, type: 2}
-  canShot: 1
+  canShot: 0
   explosion: {fileID: 100000, guid: a7ed0315d0e664da9bcb03d47e23e682, type: 2}
   getanim: {fileID: 0}
 --- !u!114 &11400054
@@ -5471,7 +5471,7 @@ MonoBehaviour:
   shotDelay: 1.96000004
   baseshotDelay: 0
   bullet: {fileID: 100000, guid: 9a99fbeeae1644200b54fc3fd2f91a90, type: 2}
-  canShot: 1
+  canShot: 0
   explosion: {fileID: 100000, guid: a7ed0315d0e664da9bcb03d47e23e682, type: 2}
   getanim: {fileID: 0}
 --- !u!114 &11400062
@@ -5569,7 +5569,7 @@ MonoBehaviour:
   shotDelay: 1.96000004
   baseshotDelay: 0
   bullet: {fileID: 100000, guid: 9a99fbeeae1644200b54fc3fd2f91a90, type: 2}
-  canShot: 1
+  canShot: 0
   explosion: {fileID: 100000, guid: a7ed0315d0e664da9bcb03d47e23e682, type: 2}
   getanim: {fileID: 0}
 --- !u!114 &11400072
@@ -5647,7 +5647,7 @@ MonoBehaviour:
   shotDelay: 1.96000004
   baseshotDelay: 0
   bullet: {fileID: 100000, guid: 9a99fbeeae1644200b54fc3fd2f91a90, type: 2}
-  canShot: 1
+  canShot: 0
   explosion: {fileID: 100000, guid: a7ed0315d0e664da9bcb03d47e23e682, type: 2}
   getanim: {fileID: 0}
 --- !u!114 &11400080
@@ -5725,7 +5725,7 @@ MonoBehaviour:
   shotDelay: 1.96000004
   baseshotDelay: 0
   bullet: {fileID: 100000, guid: 9a99fbeeae1644200b54fc3fd2f91a90, type: 2}
-  canShot: 1
+  canShot: 0
   explosion: {fileID: 100000, guid: a7ed0315d0e664da9bcb03d47e23e682, type: 2}
   getanim: {fileID: 0}
 --- !u!114 &11400088
@@ -5803,7 +5803,7 @@ MonoBehaviour:
   shotDelay: 1.96000004
   baseshotDelay: 0
   bullet: {fileID: 100000, guid: 9a99fbeeae1644200b54fc3fd2f91a90, type: 2}
-  canShot: 1
+  canShot: 0
   explosion: {fileID: 100000, guid: a7ed0315d0e664da9bcb03d47e23e682, type: 2}
   getanim: {fileID: 0}
 --- !u!114 &11400096
@@ -5881,7 +5881,7 @@ MonoBehaviour:
   shotDelay: 1.96000004
   baseshotDelay: 0
   bullet: {fileID: 100000, guid: 9a99fbeeae1644200b54fc3fd2f91a90, type: 2}
-  canShot: 1
+  canShot: 0
   explosion: {fileID: 100000, guid: a7ed0315d0e664da9bcb03d47e23e682, type: 2}
   getanim: {fileID: 0}
 --- !u!114 &11400104
@@ -5920,7 +5920,7 @@ MonoBehaviour:
   shotDelay: 1.96000004
   baseshotDelay: 0
   bullet: {fileID: 100000, guid: 9a99fbeeae1644200b54fc3fd2f91a90, type: 2}
-  canShot: 1
+  canShot: 0
   explosion: {fileID: 100000, guid: a7ed0315d0e664da9bcb03d47e23e682, type: 2}
   getanim: {fileID: 0}
 --- !u!114 &11400108
