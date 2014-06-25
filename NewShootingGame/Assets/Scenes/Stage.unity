@@ -1197,6 +1197,7 @@ MonoBehaviour:
   waves:
   - {fileID: 100016, guid: 6da037c07944b43388367c21051f338a, type: 2}
   - {fileID: 100016, guid: 6da037c07944b43388367c21051f338a, type: 2}
+  - {fileID: 100016, guid: 6da037c07944b43388367c21051f338a, type: 2}
   EnemyHP: {fileID: 100000, guid: 5c068bd5a72b648098dc506d84c6ee65, type: 2}
 --- !u!4 &1516949934
 Transform:
@@ -1433,6 +1434,7 @@ MonoBehaviour:
   playerstate: {fileID: 1290663500}
   enemyHP: {fileID: 600675919}
   zankit: {fileID: 794902528}
+  resulttext: {fileID: 771396734}
   hp: 0
   p_state: 
   zint: 0

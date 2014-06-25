@@ -52,8 +52,9 @@ public class Manager : MonoBehaviour
 
 		public void result(){
 				Debug.Log ("re");
-				FindObjectOfType<Score>().Save();
-				FindObjectOfType<Emitter>().rest();
+				FindObjectOfType<Score>().ResultScore(zanki);
+				/*FindObjectOfType<Score>().Save();
+				FindObjectOfType<Emitter>().rest();*/
 				clear.SetActive (false);
 				clearb = false;
 				GameStart ();

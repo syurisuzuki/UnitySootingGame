@@ -7,6 +7,8 @@ public class Score : MonoBehaviour
 		public GUIText playerstate;
 		public GUIText enemyHP;
 		public GUIText zankit;
+		public GUIText resulttext;
+
 		private int health;
 		public int hp;
 		public string p_state;
@@ -59,4 +61,9 @@ public class Score : MonoBehaviour
 				zint = point;
 				Debug.Log("dead");
 				}
+
+		public void ResultScore(int point){
+				score = score * point;
+				resulttext.text=score +"pt";
+		}
 }

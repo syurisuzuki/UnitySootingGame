@@ -12,13 +12,14 @@ public class Emitter : MonoBehaviour
 
 		private GameObject player;
 
+		Score score;
+
 	
 	IEnumerator Start ()
 	{
 		if (waves.Length == 0) {
 			yield break;
 		}
-
 			manager = FindObjectOfType<Manager>();
 		
 				while (true) {
@@ -33,8 +34,9 @@ public class Emitter : MonoBehaviour
 						Destroy (g);
 						if (waves.Length < ++currentWave) {
 								currentWave = 0;
-						}else if(waves.Length == ++currentWave){
+						}else if(waves.Length == currentWave){
 								FindObjectOfType<Manager>().GameClear();
+
 								currentWave = 0;
 								player = GameObject.Find ("Player(Clone)");
 								Destroy (player);
