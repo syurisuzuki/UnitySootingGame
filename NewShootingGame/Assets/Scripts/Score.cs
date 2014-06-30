@@ -8,6 +8,7 @@ public class Score : MonoBehaviour
 		public GUIText enemyHP;
 		public GUIText zankit;
 		public GUIText resulttext;
+		Manager manager;
 
 		private int health;
 		public int hp;
@@ -18,6 +19,7 @@ public class Score : MonoBehaviour
 		private string highScoreKey = "highScore";
 	
 		void Start (){
+				manager = GetComponent<Manager> ();
 				zankit.text = "@5";
 				Initialize ();
 				p_state ="NORMAL";
@@ -32,6 +34,12 @@ public class Score : MonoBehaviour
 				playerstate.text = p_state;
 				enemyHP.text = "BOSSHP:" + hp;
 				zankit.text = "@" + zint;
+				/*
+				if(manager.clearb==true){
+
+				}
+				*/
+
 				}
 
 		private void Initialize (){
@@ -64,6 +72,7 @@ public class Score : MonoBehaviour
 
 		public void ResultScore(int point){
 				score = score * point;
-				resulttext.text=score +"pt";
+				FindObjectOfType<Resultscoreanime>().Scoreanimate(score);
+				//resulttext.text=score +"pt";
 		}
 }

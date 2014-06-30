@@ -582,6 +582,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 771396735}
   - 132: {fileID: 771396734}
+  - 114: {fileID: 771396736}
   m_Layer: 0
   m_Name: Result
   m_TagString: Untagged
@@ -624,6 +625,21 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1073191874}
   m_RootOrder: 1
+--- !u!114 &771396736
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 771396733}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ba6a1b94835b4c7a9f3d38eab13f466, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animescore: 0
+  result: {fileID: 771396734}
+  animbool: 0
+  maxscore: 0
 --- !u!1 &794902526
 GameObject:
   m_ObjectHideFlags: 0
@@ -1102,6 +1118,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 100000, guid: 9464abb12d8cd4f7fbe0bdef70a00d0c, type: 2}
+  clearb: 0
   enter: 13
   zanki: 0
 --- !u!4 &1412233681
@@ -1196,8 +1213,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   waves:
   - {fileID: 100016, guid: 6da037c07944b43388367c21051f338a, type: 2}
-  - {fileID: 100016, guid: 6da037c07944b43388367c21051f338a, type: 2}
-  - {fileID: 100016, guid: 6da037c07944b43388367c21051f338a, type: 2}
+  - {fileID: 100016, guid: c15ad319552484e02b5f47c5d2cb3f24, type: 2}
   EnemyHP: {fileID: 100000, guid: 5c068bd5a72b648098dc506d84c6ee65, type: 2}
 --- !u!4 &1516949934
 Transform:

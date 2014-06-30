@@ -1,17 +1,22 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Emitter.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Resultscoreanime.cs">
     <Files>
-      <File FileName="../../country_project/ProjectCountry/Assets/Application/Scripts/99_Test/CNT_AICtrlInterface.cs" Line="1" Column="1" />
-      <File FileName="../../country_project/ProjectCountry/Assets/Application/Scripts/99_Test/CNT_AIConditionPtn1.cs" Line="1" Column="1" />
-      <File FileName="../../country_project/ProjectCountry/Assets/Application/Scripts/99_Test/CNT_AIConditionPtn6.cs" Line="1" Column="1" />
-      <File FileName="../../country_project/ProjectCountry/Assets/Application/Scripts/99_Test/CNT_AIConditionPtn3.cs" Line="1" Column="1" />
+      <File FileName="../../country_project/ProjectCountry/Assets/Application/Scripts/99_Test/CNT_AIConditionPtn21.cs" Line="1" Column="1" />
+      <File FileName="../../country_project/ProjectCountry/Assets/Application/Scripts/99_Test/CNT_AIConditionPtn25.cs" Line="1" Column="1" />
+      <File FileName="../../country_project/ProjectCountry/Assets/Application/Scripts/99_Test/CNT_AIConditionPtn37.cs" Line="1" Column="1" />
+      <File FileName="../../country_project/ProjectCountry/Assets/Application/Scripts/99_Test/CNT_AIConditionPtn5.cs" Line="1" Column="1" />
       <File FileName="../../country_project/ProjectCountry/Assets/Application/Scripts/99_Test/CNT_AIConditionBasement.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/Emitter.cs" Line="37" Column="32" />
+      <File FileName="../../country_project/ProjectCountry/Assets/Application/Scripts/99_Test/CNT_AICtrlInterface.cs" Line="1" Column="1" />
+      <File FileName="../../country_project/ProjectCountry/Assets/Application/Resources/Texts/charaMaster_UTF16.txt" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Resultscoreanime.cs" Line="43" Column="1" />
+      <File FileName="Assets/Scripts/Score.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/clarine/country_project/ProjectCountry/Assets/Application/Scripts/99_Test/CNT_AICtrlInterface.cs" line="147" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

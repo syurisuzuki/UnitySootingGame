@@ -192,6 +192,7 @@
      <Compile Include="Assets\Scripts\Manager.cs" />
      <Compile Include="Assets\Scripts\Nguitest.cs" />
      <Compile Include="Assets\Scripts\Player.cs" />
+     <Compile Include="Assets\Scripts\Resultscoreanime.cs" />
      <Compile Include="Assets\Scripts\Score.cs" />
      <Compile Include="Assets\Scripts\Shotoption.cs" />
      <Compile Include="Assets\Scripts\Shotoptionbu.cs" />
